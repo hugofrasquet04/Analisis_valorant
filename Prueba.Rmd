@@ -1,0 +1,10 @@
+---
+title: "Prueba"
+output: html_document
+date: "2025-02-18"
+---
+
+```{r}
+hola <- 3
+```
+
